@@ -1,1 +1,7 @@
+# Common
+*.bak
+*.old
+/locale/CS/LC_MESSAGES/default.po~
 /locale/tools/
+
+# Script
