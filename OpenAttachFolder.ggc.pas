@@ -4,7 +4,7 @@
   
   OpenAttachFolder
   author: mikrom, http://mikrom.cz
-  website: http://geoget.ararat.cz/doku.php/user:skript:openattachfolder
+  website: https://www.geoget.cz/doku.php/user:skript:openattachfolder
   version: 0.0.0.1, 20110601, first version
 }
 
